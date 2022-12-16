@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <FooterContainer>
       <FooterItems>
-        <CreatedBy>created by @SalafiDevelopers</CreatedBy>
+        <CreatedBy>created by @SalafiSignature</CreatedBy>
         <Image src={GithubLight} />
         <Image src={DataSource} />
       </FooterItems>
